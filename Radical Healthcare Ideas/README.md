@@ -28,7 +28,7 @@ Facilities, as indispensable components of healthcare, play a crucial role in th
 
 #### 🚫 No Denial of Care
 
-One of the core principles is to prevent facilities from denying care to patients based on credential or access issues. This approach eliminates the risk of facilities acting as institutions that can limit access to healthcare. The focus is on delivering care efficiently and ensuring that the physician's credentials are in compliance.
+One of the core principles is to prevent facilities from denying care to patients based on the preference of physicians or access issues. This approach eliminates the risk of facilities acting as institutions that can limit access to healthcare. The focus is on delivering care efficiently and ensuring that the physician's credentials are in compliance.
 
 #### 🌐 Incentivizing Interoperability
 
