@@ -1,4 +1,4 @@
-# Healthcare Explorations 💭
+# Radical-Health 💭
 
 Welcome to my personal repository where I explore and share my thoughts on the intersection of healthcare and technology. Here, you'll find a collection of articles, insights, and reflections on various aspects of healthcare tech.
 
