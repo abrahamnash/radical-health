@@ -1,4 +1,4 @@
-# AI in Healthcare: User-Friendly Design
+# AI in Clinical Care Pathways
 
 Welcome to the "AI in Healthcare: User-Friendly Design" repository. This is where I explore and implement user-friendly experiences for AI Clinical Decision Support Systems (CDSS) in the field of healthcare. My goal is to make AI tools more accessible and intuitive for healthcare professionals, ensuring they can leverage AI's full potential to improve patient care.
 
